@@ -5,7 +5,18 @@
 
 #######################################################################################
 # Book settings
-title                       : #LibreMentor  # The title of the book. Will be placed in the left navbar.
-author                      : Carlos Cámara  # The author of the book
+title                       : /#LibreMentor  # The title of the book. Will be placed in the left navbar.
+author                      : Jorge Toledo, Carlos Cámara  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/Librementor/librementor-book
+   #path_to_book: path/to/your/book  # An optional path to your book, defaults to repo root
+  branch: main  # An optional branch, defaults to `master`
+
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
