@@ -1,7 +1,5 @@
-Welcome to your Jupyter Book
-============================
+# Manual #LibreMentor
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Este manual es un recopilatorio de información útil para iniciarse en el mundo del software libre, surgido a través de la iniciativa [#LibreMentor](https://blog.lacajita.es/librementor/) impulsada por [Jorge Toledo](https://blog.lacajita.es).
 
-Check out the content pages bundled with this sample book to get started.
+El libro está abierto a contribuciones.
