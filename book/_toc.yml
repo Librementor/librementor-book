@@ -1,8 +1,15 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 - file: intro
-- file: content
-  sections:
+
+- part: Contenido demo
+  chapters:
+  - file: content
+    sections:
     - file: markdown
     - file: notebooks
-#- url: https://blog.lacajita.es/librementor/
+- part: Contenido externo
+  chapters:
+  - url: https://blog.lacajita.es/librementor/
+    title: ¿Qué es librementor?
+
