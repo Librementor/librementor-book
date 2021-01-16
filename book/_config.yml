@@ -26,3 +26,9 @@ html:
 #         <div>
 #           my html code
 #         </div>
+
+# Sphinx configuration overrides. 
+# See https://jupyterbook.org/customize/config.html?highlight=sphinx%20config#advanced-configuration-with-sphinx
+sphinx:
+  config:
+    language: es
